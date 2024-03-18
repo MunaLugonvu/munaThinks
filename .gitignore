@@ -125,6 +125,7 @@ celerybeat.pid
 env/
 venv/
 ENV/
+munathinksenv/
 env.bak/
 venv.bak/
 
